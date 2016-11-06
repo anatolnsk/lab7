@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include "a.h"
 int main(){
 
-	printf("Hello and goodbye!\n");
+	f(22);
 	return 0;
 }
